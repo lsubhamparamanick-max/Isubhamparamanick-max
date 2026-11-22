@@ -22,4 +22,5 @@
 ---
 
 ### 📊 GitHub Stats
-![Subham's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Isubhamparamanick-max&show_icons=true&theme=tokyonight)
+
+![Subham's GitHub Stats](https://github-readme-stats.vercel.app/api?username=lsubhamparamanick-max&show_icons=true&theme=tokyonight)
